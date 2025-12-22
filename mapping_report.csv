@@ -1,0 +1,18 @@
+MOD Plant,File,DC Columns,SG Columns
+Singrauli,entvsdl.csv,"['SINGRAULI | UPPCL | Onbar Final Ent Amount', 'SINGRAULI_HYDRO | UPPCL | Final Ent Amount']","['SINGRAULI | UPPCL | Schedule Amount', 'SINGRAULI_HYDRO | UPPCL | Schedule Amount']"
+Tanda,entvsdl.csv,['TANDA2 | UPPCL | Onbar Final Ent Amount'],['TANDA2 | UPPCL | Schedule Amount']
+Sasan,entvsdl.csv,['SASAN | UPPCL | Onbar Final Ent Amount'],['SASAN | UPPCL | Schedule Amount']
+Jhajjar,entvsdl.csv,['JHAJJAR | UPPCL | Onbar Final Ent Amount'],['JHAJJAR | UPPCL | Schedule Amount']
+Tanda,ipp.csv,['TANDA UPPCL DC/ Entitlement (MW)'],['TANDA UPPCL SG (MW)']
+Rosa -I,ipp.csv,"['ROSA-II UPPCL DC/ Entitlement (MW)', 'ROSA-I UPPCL DC/ Entitlement (MW)']","['ROSA-I UPPCL SG (MW)', 'ROSA-II UPPCL SG (MW)']"
+Lalitpur Power,ipp.csv,['LALITPUR POWER GENERATION COMPANY LIMITED UPPCL DC/ Entitlement (MW)'],['LALITPUR POWER GENERATION COMPANY LIMITED UPPCL SG (MW)']
+ROSA-II,ipp.csv,['ROSA-II UPPCL DC/ Entitlement (MW)'],['ROSA-II UPPCL SG (MW)']
+RKM,trader.csv,['RKM-LT49-UPPCL(200MW) UPPCL DC/ Entitlement (MW)'],['RKM-LT49-UPPCL(200MW) UPPCL SG (MW)']
+Anpara - A,uprvunl.csv,['ANPARA-A UPPCL DC/ Entitlement (MW)'],['ANPARA-A UPPCL SG (MW)']
+Anpara - B,uprvunl.csv,['ANPARA-B UPPCL DC/ Entitlement (MW)'],['ANPARA-B UPPCL SG (MW)']
+Anpara-D,uprvunl.csv,['ANPARA-D UPPCL DC/ Entitlement (MW)'],['ANPARA-D UPPCL SG (MW)']
+Harduaganj,uprvunl.csv,"['Harduaganj 1X660 MW UPRVUNL UPPCL DC/ Entitlement (MW)', 'HARDUAGANJ D UPPCL DC/ Entitlement (MW)', 'HARDUAGANJ UPPCL DC/ Entitlement (MW)']","['Harduaganj 1X660 MW UPRVUNL UPPCL SG (MW)', 'HARDUAGANJ D UPPCL SG (MW)', 'HARDUAGANJ UPPCL SG (MW)']"
+Obra-B,uprvunl.csv,['OBRA-B UPPCL DC/ Entitlement (MW)'],['OBRA-B UPPCL SG (MW)']
+Obra-C,uprvunl.csv,['OBRA C UPPCL DC/ Entitlement (MW)'],['OBRA C UPPCL SG (MW)']
+JAWAHARPUR,uprvunl.csv,['Jawaharpur Vidyut Utapadan Nigam Ltd Distt Etah UPPCL DC/ Entitlement (MW)'],['Jawaharpur Vidyut Utapadan Nigam Ltd Distt Etah UPPCL SG (MW)']
+PANKI,uprvunl.csv,['Panki Thermal Extension Project 1X660 UPPCL DC/ Entitlement (MW)'],['Panki Thermal Extension Project 1X660 UPPCL SG (MW)']

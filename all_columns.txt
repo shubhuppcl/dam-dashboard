@@ -1,0 +1,1177 @@
+--- entvsdl.csv ---
+Unnamed: 0_level_0 | Unnamed: 0_level_1 | TIME BLOCK
+Unnamed: 1_level_0 | Unnamed: 1_level_1 | TIME DESC
+ANTA_CRF | UPPCL | Entire Shared Combined Ent Amount
+ANTA_CRF | UPPCL | Entire Shared Open Ent Amount
+ANTA_CRF | UPPCL | Entire Shared Offbar Ent Amount
+ANTA_CRF | UPPCL | Combined Reg Amount
+ANTA_CRF | UPPCL | Open Reg Amount
+ANTA_CRF | UPPCL | Off bar Reg Amount
+ANTA_CRF | UPPCL | Combined PSM Reg Amount
+ANTA_CRF | UPPCL | Open PSM Reg Amount
+ANTA_CRF | UPPCL | Off bar PSM Reg Amount
+ANTA_CRF | UPPCL | Combined LPSC Reg Amount
+ANTA_CRF | UPPCL | Open LPSC Reg Amount
+ANTA_CRF | UPPCL | Off bar LPSC Reg Amount
+ANTA_CRF | UPPCL | Combined Reg OASold Amount
+ANTA_CRF | UPPCL | Combined UnReg OASold Amount
+ANTA_CRF | UPPCL | Open Reg OASold Amount
+ANTA_CRF | UPPCL | Open UnReg OASold Amount
+ANTA_CRF | UPPCL | Combined Final Ent Amount
+ANTA_CRF | UPPCL | Open Final Ent Amount
+ANTA_CRF | UPPCL | Offbar Final Ent Amount
+ANTA_CRF | UPPCL | Schedule Amount
+ANTA_GF | UPPCL | Entire Shared Combined Ent Amount
+ANTA_GF | UPPCL | Entire Shared Open Ent Amount
+ANTA_GF | UPPCL | Entire Shared Offbar Ent Amount
+ANTA_GF | UPPCL | Combined Reg Amount
+ANTA_GF | UPPCL | Open Reg Amount
+ANTA_GF | UPPCL | Off bar Reg Amount
+ANTA_GF | UPPCL | Combined PSM Reg Amount
+ANTA_GF | UPPCL | Open PSM Reg Amount
+ANTA_GF | UPPCL | Off bar PSM Reg Amount
+ANTA_GF | UPPCL | Combined LPSC Reg Amount
+ANTA_GF | UPPCL | Open LPSC Reg Amount
+ANTA_GF | UPPCL | Off bar LPSC Reg Amount
+ANTA_GF | UPPCL | Combined Reg OASold Amount
+ANTA_GF | UPPCL | Combined UnReg OASold Amount
+ANTA_GF | UPPCL | Open Reg OASold Amount
+ANTA_GF | UPPCL | Open UnReg OASold Amount
+ANTA_GF | UPPCL | Combined Final Ent Amount
+ANTA_GF | UPPCL | Open Final Ent Amount
+ANTA_GF | UPPCL | Offbar Final Ent Amount
+ANTA_GF | UPPCL | Schedule Amount
+ANTA_LF | UPPCL | Entire Shared Combined Ent Amount
+ANTA_LF | UPPCL | Entire Shared Open Ent Amount
+ANTA_LF | UPPCL | Entire Shared Offbar Ent Amount
+ANTA_LF | UPPCL | Combined Reg Amount
+ANTA_LF | UPPCL | Open Reg Amount
+ANTA_LF | UPPCL | Off bar Reg Amount
+ANTA_LF | UPPCL | Combined PSM Reg Amount
+ANTA_LF | UPPCL | Open PSM Reg Amount
+ANTA_LF | UPPCL | Off bar PSM Reg Amount
+ANTA_LF | UPPCL | Combined LPSC Reg Amount
+ANTA_LF | UPPCL | Open LPSC Reg Amount
+ANTA_LF | UPPCL | Off bar LPSC Reg Amount
+ANTA_LF | UPPCL | Combined Reg OASold Amount
+ANTA_LF | UPPCL | Combined UnReg OASold Amount
+ANTA_LF | UPPCL | Open Reg OASold Amount
+ANTA_LF | UPPCL | Open UnReg OASold Amount
+ANTA_LF | UPPCL | Combined Final Ent Amount
+ANTA_LF | UPPCL | Open Final Ent Amount
+ANTA_LF | UPPCL | Offbar Final Ent Amount
+ANTA_LF | UPPCL | Schedule Amount
+ANTA_RF | UPPCL | Entire Shared Combined Ent Amount
+ANTA_RF | UPPCL | Entire Shared Open Ent Amount
+ANTA_RF | UPPCL | Entire Shared Offbar Ent Amount
+ANTA_RF | UPPCL | Combined Reg Amount
+ANTA_RF | UPPCL | Open Reg Amount
+ANTA_RF | UPPCL | Off bar Reg Amount
+ANTA_RF | UPPCL | Combined PSM Reg Amount
+ANTA_RF | UPPCL | Open PSM Reg Amount
+ANTA_RF | UPPCL | Off bar PSM Reg Amount
+ANTA_RF | UPPCL | Combined LPSC Reg Amount
+ANTA_RF | UPPCL | Open LPSC Reg Amount
+ANTA_RF | UPPCL | Off bar LPSC Reg Amount
+ANTA_RF | UPPCL | Combined Reg OASold Amount
+ANTA_RF | UPPCL | Combined UnReg OASold Amount
+ANTA_RF | UPPCL | Open Reg OASold Amount
+ANTA_RF | UPPCL | Open UnReg OASold Amount
+ANTA_RF | UPPCL | Combined Final Ent Amount
+ANTA_RF | UPPCL | Open Final Ent Amount
+ANTA_RF | UPPCL | Offbar Final Ent Amount
+ANTA_RF | UPPCL | Schedule Amount
+AURY_CRF | UPPCL | Entire Shared Combined Ent Amount
+AURY_CRF | UPPCL | Entire Shared Open Ent Amount
+AURY_CRF | UPPCL | Entire Shared Offbar Ent Amount
+AURY_CRF | UPPCL | Combined Reg Amount
+AURY_CRF | UPPCL | Open Reg Amount
+AURY_CRF | UPPCL | Off bar Reg Amount
+AURY_CRF | UPPCL | Combined PSM Reg Amount
+AURY_CRF | UPPCL | Open PSM Reg Amount
+AURY_CRF | UPPCL | Off bar PSM Reg Amount
+AURY_CRF | UPPCL | Combined LPSC Reg Amount
+AURY_CRF | UPPCL | Open LPSC Reg Amount
+AURY_CRF | UPPCL | Off bar LPSC Reg Amount
+AURY_CRF | UPPCL | Combined Reg OASold Amount
+AURY_CRF | UPPCL | Combined UnReg OASold Amount
+AURY_CRF | UPPCL | Open Reg OASold Amount
+AURY_CRF | UPPCL | Open UnReg OASold Amount
+AURY_CRF | UPPCL | Combined Final Ent Amount
+AURY_CRF | UPPCL | Open Final Ent Amount
+AURY_CRF | UPPCL | Offbar Final Ent Amount
+AURY_CRF | UPPCL | Schedule Amount
+AURY_GF | UPPCL | Entire Shared Combined Ent Amount
+AURY_GF | UPPCL | Entire Shared Open Ent Amount
+AURY_GF | UPPCL | Entire Shared Offbar Ent Amount
+AURY_GF | UPPCL | Combined Reg Amount
+AURY_GF | UPPCL | Open Reg Amount
+AURY_GF | UPPCL | Off bar Reg Amount
+AURY_GF | UPPCL | Combined PSM Reg Amount
+AURY_GF | UPPCL | Open PSM Reg Amount
+AURY_GF | UPPCL | Off bar PSM Reg Amount
+AURY_GF | UPPCL | Combined LPSC Reg Amount
+AURY_GF | UPPCL | Open LPSC Reg Amount
+AURY_GF | UPPCL | Off bar LPSC Reg Amount
+AURY_GF | UPPCL | Combined Reg OASold Amount
+AURY_GF | UPPCL | Combined UnReg OASold Amount
+AURY_GF | UPPCL | Open Reg OASold Amount
+AURY_GF | UPPCL | Open UnReg OASold Amount
+AURY_GF | UPPCL | Combined Final Ent Amount
+AURY_GF | UPPCL | Open Final Ent Amount
+AURY_GF | UPPCL | Offbar Final Ent Amount
+AURY_GF | UPPCL | Schedule Amount
+AURY_LF | UPPCL | Entire Shared Combined Ent Amount
+AURY_LF | UPPCL | Entire Shared Open Ent Amount
+AURY_LF | UPPCL | Entire Shared Offbar Ent Amount
+AURY_LF | UPPCL | Combined Reg Amount
+AURY_LF | UPPCL | Open Reg Amount
+AURY_LF | UPPCL | Off bar Reg Amount
+AURY_LF | UPPCL | Combined PSM Reg Amount
+AURY_LF | UPPCL | Open PSM Reg Amount
+AURY_LF | UPPCL | Off bar PSM Reg Amount
+AURY_LF | UPPCL | Combined LPSC Reg Amount
+AURY_LF | UPPCL | Open LPSC Reg Amount
+AURY_LF | UPPCL | Off bar LPSC Reg Amount
+AURY_LF | UPPCL | Combined Reg OASold Amount
+AURY_LF | UPPCL | Combined UnReg OASold Amount
+AURY_LF | UPPCL | Open Reg OASold Amount
+AURY_LF | UPPCL | Open UnReg OASold Amount
+AURY_LF | UPPCL | Combined Final Ent Amount
+AURY_LF | UPPCL | Open Final Ent Amount
+AURY_LF | UPPCL | Offbar Final Ent Amount
+AURY_LF | UPPCL | Schedule Amount
+AURY_RF | UPPCL | Entire Shared Combined Ent Amount
+AURY_RF | UPPCL | Entire Shared Open Ent Amount
+AURY_RF | UPPCL | Entire Shared Offbar Ent Amount
+AURY_RF | UPPCL | Combined Reg Amount
+AURY_RF | UPPCL | Open Reg Amount
+AURY_RF | UPPCL | Off bar Reg Amount
+AURY_RF | UPPCL | Combined PSM Reg Amount
+AURY_RF | UPPCL | Open PSM Reg Amount
+AURY_RF | UPPCL | Off bar PSM Reg Amount
+AURY_RF | UPPCL | Combined LPSC Reg Amount
+AURY_RF | UPPCL | Open LPSC Reg Amount
+AURY_RF | UPPCL | Off bar LPSC Reg Amount
+AURY_RF | UPPCL | Combined Reg OASold Amount
+AURY_RF | UPPCL | Combined UnReg OASold Amount
+AURY_RF | UPPCL | Open Reg OASold Amount
+AURY_RF | UPPCL | Open UnReg OASold Amount
+AURY_RF | UPPCL | Combined Final Ent Amount
+AURY_RF | UPPCL | Open Final Ent Amount
+AURY_RF | UPPCL | Offbar Final Ent Amount
+AURY_RF | UPPCL | Schedule Amount
+BRBCL | UPPCL | Entire Shared Onbar Ent Amount
+BRBCL | UPPCL | Entire Shared Offbar Ent Amount
+BRBCL | UPPCL | Onbar Reg Amount
+BRBCL | UPPCL | Offbar Reg Amount
+BRBCL | UPPCL | Onbar PSM Reg Amount
+BRBCL | UPPCL | Offbar PSM Reg Amount
+BRBCL | UPPCL | Onbar LPSC Reg Amount
+BRBCL | UPPCL | Offbar LPSC Reg Amount
+BRBCL | UPPCL | Onbar Reg OASold Amount
+BRBCL | UPPCL | Onbar UnReg OASold Amount
+BRBCL | UPPCL | Onbar Final Ent Amount
+BRBCL | UPPCL | Offbar Final Ent Amount
+BRBCL | UPPCL | Schedule Amount
+BSIUL | UPPCL | Entire Shared Ent Amount
+BSIUL | UPPCL | Reg Amount
+BSIUL | UPPCL | PSM Reg Amount
+BSIUL | UPPCL | LPSC Reg Amount
+BSIUL | UPPCL | UnReg OASold Amount
+BSIUL | UPPCL | Reg OA Sold Amount
+BSIUL | UPPCL | Final Ent Amount
+BSIUL | UPPCL | Schedule Amount
+CHAMERA1 | UPPCL | Entire Shared Ent Amount
+CHAMERA1 | UPPCL | Reg Amount
+CHAMERA1 | UPPCL | PSM Reg Amount
+CHAMERA1 | UPPCL | LPSC Reg Amount
+CHAMERA1 | UPPCL | UnReg OASold Amount
+CHAMERA1 | UPPCL | Reg OA Sold Amount
+CHAMERA1 | UPPCL | Final Ent Amount
+CHAMERA1 | UPPCL | Schedule Amount
+CHAMERA2 | UPPCL | Entire Shared Ent Amount
+CHAMERA2 | UPPCL | Reg Amount
+CHAMERA2 | UPPCL | PSM Reg Amount
+CHAMERA2 | UPPCL | LPSC Reg Amount
+CHAMERA2 | UPPCL | UnReg OASold Amount
+CHAMERA2 | UPPCL | Reg OA Sold Amount
+CHAMERA2 | UPPCL | Final Ent Amount
+CHAMERA2 | UPPCL | Schedule Amount
+CHAMERA3 | UPPCL | Entire Shared Ent Amount
+CHAMERA3 | UPPCL | Reg Amount
+CHAMERA3 | UPPCL | PSM Reg Amount
+CHAMERA3 | UPPCL | LPSC Reg Amount
+CHAMERA3 | UPPCL | UnReg OASold Amount
+CHAMERA3 | UPPCL | Reg OA Sold Amount
+CHAMERA3 | UPPCL | Final Ent Amount
+CHAMERA3 | UPPCL | Schedule Amount
+DADRI_CRF | UPPCL | Entire Shared Combined Ent Amount
+DADRI_CRF | UPPCL | Entire Shared Open Ent Amount
+DADRI_CRF | UPPCL | Entire Shared Offbar Ent Amount
+DADRI_CRF | UPPCL | Combined Reg Amount
+DADRI_CRF | UPPCL | Open Reg Amount
+DADRI_CRF | UPPCL | Off bar Reg Amount
+DADRI_CRF | UPPCL | Combined PSM Reg Amount
+DADRI_CRF | UPPCL | Open PSM Reg Amount
+DADRI_CRF | UPPCL | Off bar PSM Reg Amount
+DADRI_CRF | UPPCL | Combined LPSC Reg Amount
+DADRI_CRF | UPPCL | Open LPSC Reg Amount
+DADRI_CRF | UPPCL | Off bar LPSC Reg Amount
+DADRI_CRF | UPPCL | Combined Reg OASold Amount
+DADRI_CRF | UPPCL | Combined UnReg OASold Amount
+DADRI_CRF | UPPCL | Open Reg OASold Amount
+DADRI_CRF | UPPCL | Open UnReg OASold Amount
+DADRI_CRF | UPPCL | Combined Final Ent Amount
+DADRI_CRF | UPPCL | Open Final Ent Amount
+DADRI_CRF | UPPCL | Offbar Final Ent Amount
+DADRI_CRF | UPPCL | Schedule Amount
+DADRI_GF | UPPCL | Entire Shared Combined Ent Amount
+DADRI_GF | UPPCL | Entire Shared Open Ent Amount
+DADRI_GF | UPPCL | Entire Shared Offbar Ent Amount
+DADRI_GF | UPPCL | Combined Reg Amount
+DADRI_GF | UPPCL | Open Reg Amount
+DADRI_GF | UPPCL | Off bar Reg Amount
+DADRI_GF | UPPCL | Combined PSM Reg Amount
+DADRI_GF | UPPCL | Open PSM Reg Amount
+DADRI_GF | UPPCL | Off bar PSM Reg Amount
+DADRI_GF | UPPCL | Combined LPSC Reg Amount
+DADRI_GF | UPPCL | Open LPSC Reg Amount
+DADRI_GF | UPPCL | Off bar LPSC Reg Amount
+DADRI_GF | UPPCL | Combined Reg OASold Amount
+DADRI_GF | UPPCL | Combined UnReg OASold Amount
+DADRI_GF | UPPCL | Open Reg OASold Amount
+DADRI_GF | UPPCL | Open UnReg OASold Amount
+DADRI_GF | UPPCL | Combined Final Ent Amount
+DADRI_GF | UPPCL | Open Final Ent Amount
+DADRI_GF | UPPCL | Offbar Final Ent Amount
+DADRI_GF | UPPCL | Schedule Amount
+DADRI_LF | UPPCL | Entire Shared Combined Ent Amount
+DADRI_LF | UPPCL | Entire Shared Open Ent Amount
+DADRI_LF | UPPCL | Entire Shared Offbar Ent Amount
+DADRI_LF | UPPCL | Combined Reg Amount
+DADRI_LF | UPPCL | Open Reg Amount
+DADRI_LF | UPPCL | Off bar Reg Amount
+DADRI_LF | UPPCL | Combined PSM Reg Amount
+DADRI_LF | UPPCL | Open PSM Reg Amount
+DADRI_LF | UPPCL | Off bar PSM Reg Amount
+DADRI_LF | UPPCL | Combined LPSC Reg Amount
+DADRI_LF | UPPCL | Open LPSC Reg Amount
+DADRI_LF | UPPCL | Off bar LPSC Reg Amount
+DADRI_LF | UPPCL | Combined Reg OASold Amount
+DADRI_LF | UPPCL | Combined UnReg OASold Amount
+DADRI_LF | UPPCL | Open Reg OASold Amount
+DADRI_LF | UPPCL | Open UnReg OASold Amount
+DADRI_LF | UPPCL | Combined Final Ent Amount
+DADRI_LF | UPPCL | Open Final Ent Amount
+DADRI_LF | UPPCL | Offbar Final Ent Amount
+DADRI_LF | UPPCL | Schedule Amount
+DADRI_RF | UPPCL | Entire Shared Combined Ent Amount
+DADRI_RF | UPPCL | Entire Shared Open Ent Amount
+DADRI_RF | UPPCL | Entire Shared Offbar Ent Amount
+DADRI_RF | UPPCL | Combined Reg Amount
+DADRI_RF | UPPCL | Open Reg Amount
+DADRI_RF | UPPCL | Off bar Reg Amount
+DADRI_RF | UPPCL | Combined PSM Reg Amount
+DADRI_RF | UPPCL | Open PSM Reg Amount
+DADRI_RF | UPPCL | Off bar PSM Reg Amount
+DADRI_RF | UPPCL | Combined LPSC Reg Amount
+DADRI_RF | UPPCL | Open LPSC Reg Amount
+DADRI_RF | UPPCL | Off bar LPSC Reg Amount
+DADRI_RF | UPPCL | Combined Reg OASold Amount
+DADRI_RF | UPPCL | Combined UnReg OASold Amount
+DADRI_RF | UPPCL | Open Reg OASold Amount
+DADRI_RF | UPPCL | Open UnReg OASold Amount
+DADRI_RF | UPPCL | Combined Final Ent Amount
+DADRI_RF | UPPCL | Open Final Ent Amount
+DADRI_RF | UPPCL | Offbar Final Ent Amount
+DADRI_RF | UPPCL | Schedule Amount
+DADRIT | UPPCL | Entire Shared Onbar Ent Amount
+DADRIT | UPPCL | Entire Shared Offbar Ent Amount
+DADRIT | UPPCL | Onbar Reg Amount
+DADRIT | UPPCL | Offbar Reg Amount
+DADRIT | UPPCL | Onbar PSM Reg Amount
+DADRIT | UPPCL | Offbar PSM Reg Amount
+DADRIT | UPPCL | Onbar LPSC Reg Amount
+DADRIT | UPPCL | Offbar LPSC Reg Amount
+DADRIT | UPPCL | Onbar Reg OASold Amount
+DADRIT | UPPCL | Onbar UnReg OASold Amount
+DADRIT | UPPCL | Onbar Final Ent Amount
+DADRIT | UPPCL | Offbar Final Ent Amount
+DADRIT | UPPCL | Schedule Amount
+DADRT2 | UPPCL | Entire Shared Onbar Ent Amount
+DADRT2 | UPPCL | Entire Shared Offbar Ent Amount
+DADRT2 | UPPCL | Onbar Reg Amount
+DADRT2 | UPPCL | Offbar Reg Amount
+DADRT2 | UPPCL | Onbar PSM Reg Amount
+DADRT2 | UPPCL | Offbar PSM Reg Amount
+DADRT2 | UPPCL | Onbar LPSC Reg Amount
+DADRT2 | UPPCL | Offbar LPSC Reg Amount
+DADRT2 | UPPCL | Onbar Reg OASold Amount
+DADRT2 | UPPCL | Onbar UnReg OASold Amount
+DADRT2 | UPPCL | Onbar Final Ent Amount
+DADRT2 | UPPCL | Offbar Final Ent Amount
+DADRT2 | UPPCL | Schedule Amount
+DHAULIGNGA | UPPCL | Entire Shared Ent Amount
+DHAULIGNGA | UPPCL | Reg Amount
+DHAULIGNGA | UPPCL | PSM Reg Amount
+DHAULIGNGA | UPPCL | LPSC Reg Amount
+DHAULIGNGA | UPPCL | UnReg OASold Amount
+DHAULIGNGA | UPPCL | Reg OA Sold Amount
+DHAULIGNGA | UPPCL | Final Ent Amount
+DHAULIGNGA | UPPCL | Schedule Amount
+DULHASTI | UPPCL | Entire Shared Ent Amount
+DULHASTI | UPPCL | Reg Amount
+DULHASTI | UPPCL | PSM Reg Amount
+DULHASTI | UPPCL | LPSC Reg Amount
+DULHASTI | UPPCL | UnReg OASold Amount
+DULHASTI | UPPCL | Reg OA Sold Amount
+DULHASTI | UPPCL | Final Ent Amount
+DULHASTI | UPPCL | Schedule Amount
+FSTPP_I_II | UPPCL | Entire Shared Onbar Ent Amount
+FSTPP_I_II | UPPCL | Entire Shared Offbar Ent Amount
+FSTPP_I_II | UPPCL | Onbar Reg Amount
+FSTPP_I_II | UPPCL | Offbar Reg Amount
+FSTPP_I_II | UPPCL | Onbar PSM Reg Amount
+FSTPP_I_II | UPPCL | Offbar PSM Reg Amount
+FSTPP_I_II | UPPCL | Onbar LPSC Reg Amount
+FSTPP_I_II | UPPCL | Offbar LPSC Reg Amount
+FSTPP_I_II | UPPCL | Onbar Reg OASold Amount
+FSTPP_I_II | UPPCL | Onbar UnReg OASold Amount
+FSTPP_I_II | UPPCL | Onbar Final Ent Amount
+FSTPP_I_II | UPPCL | Offbar Final Ent Amount
+FSTPP_I_II | UPPCL | Schedule Amount
+GADARWARA | UPPCL | Entire Shared Onbar Ent Amount
+GADARWARA | UPPCL | Entire Shared Offbar Ent Amount
+GADARWARA | UPPCL | Onbar Reg Amount
+GADARWARA | UPPCL | Offbar Reg Amount
+GADARWARA | UPPCL | Onbar PSM Reg Amount
+GADARWARA | UPPCL | Offbar PSM Reg Amount
+GADARWARA | UPPCL | Onbar LPSC Reg Amount
+GADARWARA | UPPCL | Offbar LPSC Reg Amount
+GADARWARA | UPPCL | Onbar Reg OASold Amount
+GADARWARA | UPPCL | Onbar UnReg OASold Amount
+GADARWARA | UPPCL | Onbar Final Ent Amount
+GADARWARA | UPPCL | Offbar Final Ent Amount
+GADARWARA | UPPCL | Schedule Amount
+GANDHAR_APM | UPPCL | Entire Shared Combined Ent Amount
+GANDHAR_APM | UPPCL | Entire Shared Open Ent Amount
+GANDHAR_APM | UPPCL | Entire Shared Offbar Ent Amount
+GANDHAR_APM | UPPCL | Combined Reg Amount
+GANDHAR_APM | UPPCL | Open Reg Amount
+GANDHAR_APM | UPPCL | Off bar Reg Amount
+GANDHAR_APM | UPPCL | Combined PSM Reg Amount
+GANDHAR_APM | UPPCL | Open PSM Reg Amount
+GANDHAR_APM | UPPCL | Off bar PSM Reg Amount
+GANDHAR_APM | UPPCL | Combined LPSC Reg Amount
+GANDHAR_APM | UPPCL | Open LPSC Reg Amount
+GANDHAR_APM | UPPCL | Off bar LPSC Reg Amount
+GANDHAR_APM | UPPCL | Combined Reg OASold Amount
+GANDHAR_APM | UPPCL | Combined UnReg OASold Amount
+GANDHAR_APM | UPPCL | Open Reg OASold Amount
+GANDHAR_APM | UPPCL | Open UnReg OASold Amount
+GANDHAR_APM | UPPCL | Combined Final Ent Amount
+GANDHAR_APM | UPPCL | Open Final Ent Amount
+GANDHAR_APM | UPPCL | Offbar Final Ent Amount
+GANDHAR_APM | UPPCL | Schedule Amount
+GANDHAR_CRF | UPPCL | Entire Shared Combined Ent Amount
+GANDHAR_CRF | UPPCL | Entire Shared Open Ent Amount
+GANDHAR_CRF | UPPCL | Entire Shared Offbar Ent Amount
+GANDHAR_CRF | UPPCL | Combined Reg Amount
+GANDHAR_CRF | UPPCL | Open Reg Amount
+GANDHAR_CRF | UPPCL | Off bar Reg Amount
+GANDHAR_CRF | UPPCL | Combined PSM Reg Amount
+GANDHAR_CRF | UPPCL | Open PSM Reg Amount
+GANDHAR_CRF | UPPCL | Off bar PSM Reg Amount
+GANDHAR_CRF | UPPCL | Combined LPSC Reg Amount
+GANDHAR_CRF | UPPCL | Open LPSC Reg Amount
+GANDHAR_CRF | UPPCL | Off bar LPSC Reg Amount
+GANDHAR_CRF | UPPCL | Combined Reg OASold Amount
+GANDHAR_CRF | UPPCL | Combined UnReg OASold Amount
+GANDHAR_CRF | UPPCL | Open Reg OASold Amount
+GANDHAR_CRF | UPPCL | Open UnReg OASold Amount
+GANDHAR_CRF | UPPCL | Combined Final Ent Amount
+GANDHAR_CRF | UPPCL | Open Final Ent Amount
+GANDHAR_CRF | UPPCL | Offbar Final Ent Amount
+GANDHAR_CRF | UPPCL | Schedule Amount
+GANDHAR_NAPM | UPPCL | Entire Shared Combined Ent Amount
+GANDHAR_NAPM | UPPCL | Entire Shared Open Ent Amount
+GANDHAR_NAPM | UPPCL | Entire Shared Offbar Ent Amount
+GANDHAR_NAPM | UPPCL | Combined Reg Amount
+GANDHAR_NAPM | UPPCL | Open Reg Amount
+GANDHAR_NAPM | UPPCL | Off bar Reg Amount
+GANDHAR_NAPM | UPPCL | Combined PSM Reg Amount
+GANDHAR_NAPM | UPPCL | Open PSM Reg Amount
+GANDHAR_NAPM | UPPCL | Off bar PSM Reg Amount
+GANDHAR_NAPM | UPPCL | Combined LPSC Reg Amount
+GANDHAR_NAPM | UPPCL | Open LPSC Reg Amount
+GANDHAR_NAPM | UPPCL | Off bar LPSC Reg Amount
+GANDHAR_NAPM | UPPCL | Combined Reg OASold Amount
+GANDHAR_NAPM | UPPCL | Combined UnReg OASold Amount
+GANDHAR_NAPM | UPPCL | Open Reg OASold Amount
+GANDHAR_NAPM | UPPCL | Open UnReg OASold Amount
+GANDHAR_NAPM | UPPCL | Combined Final Ent Amount
+GANDHAR_NAPM | UPPCL | Open Final Ent Amount
+GANDHAR_NAPM | UPPCL | Offbar Final Ent Amount
+GANDHAR_NAPM | UPPCL | Schedule Amount
+GANDHAR_RLNG | UPPCL | Entire Shared Combined Ent Amount
+GANDHAR_RLNG | UPPCL | Entire Shared Open Ent Amount
+GANDHAR_RLNG | UPPCL | Entire Shared Offbar Ent Amount
+GANDHAR_RLNG | UPPCL | Combined Reg Amount
+GANDHAR_RLNG | UPPCL | Open Reg Amount
+GANDHAR_RLNG | UPPCL | Off bar Reg Amount
+GANDHAR_RLNG | UPPCL | Combined PSM Reg Amount
+GANDHAR_RLNG | UPPCL | Open PSM Reg Amount
+GANDHAR_RLNG | UPPCL | Off bar PSM Reg Amount
+GANDHAR_RLNG | UPPCL | Combined LPSC Reg Amount
+GANDHAR_RLNG | UPPCL | Open LPSC Reg Amount
+GANDHAR_RLNG | UPPCL | Off bar LPSC Reg Amount
+GANDHAR_RLNG | UPPCL | Combined Reg OASold Amount
+GANDHAR_RLNG | UPPCL | Combined UnReg OASold Amount
+GANDHAR_RLNG | UPPCL | Open Reg OASold Amount
+GANDHAR_RLNG | UPPCL | Open UnReg OASold Amount
+GANDHAR_RLNG | UPPCL | Combined Final Ent Amount
+GANDHAR_RLNG | UPPCL | Open Final Ent Amount
+GANDHAR_RLNG | UPPCL | Offbar Final Ent Amount
+GANDHAR_RLNG | UPPCL | Schedule Amount
+JHAJJAR | UPPCL | Entire Shared Onbar Ent Amount
+JHAJJAR | UPPCL | Entire Shared Offbar Ent Amount
+JHAJJAR | UPPCL | Onbar Reg Amount
+JHAJJAR | UPPCL | Offbar Reg Amount
+JHAJJAR | UPPCL | Onbar PSM Reg Amount
+JHAJJAR | UPPCL | Offbar PSM Reg Amount
+JHAJJAR | UPPCL | Onbar LPSC Reg Amount
+JHAJJAR | UPPCL | Offbar LPSC Reg Amount
+JHAJJAR | UPPCL | Onbar Reg OASold Amount
+JHAJJAR | UPPCL | Onbar UnReg OASold Amount
+JHAJJAR | UPPCL | Onbar Final Ent Amount
+JHAJJAR | UPPCL | Offbar Final Ent Amount
+JHAJJAR | UPPCL | Schedule Amount
+Kameng | UPPCL | Entire Shared Ent Amount
+Kameng | UPPCL | Reg Amount
+Kameng | UPPCL | PSM Reg Amount
+Kameng | UPPCL | LPSC Reg Amount
+Kameng | UPPCL | UnReg OASold Amount
+Kameng | UPPCL | Reg OA Sold Amount
+Kameng | UPPCL | Final Ent Amount
+Kameng | UPPCL | Schedule Amount
+KAPS | UPPCL | Entire Shared Ent Amount
+KAPS | UPPCL | Reg Amount
+KAPS | UPPCL | PSM Reg Amount
+KAPS | UPPCL | LPSC Reg Amount
+KAPS | UPPCL | UnReg OASold Amount
+KAPS | UPPCL | Reg OA Sold Amount
+KAPS | UPPCL | Final Ent Amount
+KAPS | UPPCL | Schedule Amount
+KAPS_34 | UPPCL | Entire Shared Ent Amount
+KAPS_34 | UPPCL | Reg Amount
+KAPS_34 | UPPCL | PSM Reg Amount
+KAPS_34 | UPPCL | LPSC Reg Amount
+KAPS_34 | UPPCL | UnReg OASold Amount
+KAPS_34 | UPPCL | Reg OA Sold Amount
+KAPS_34 | UPPCL | Final Ent Amount
+KAPS_34 | UPPCL | Schedule Amount
+KAWAS_APM | UPPCL | Entire Shared Combined Ent Amount
+KAWAS_APM | UPPCL | Entire Shared Open Ent Amount
+KAWAS_APM | UPPCL | Entire Shared Offbar Ent Amount
+KAWAS_APM | UPPCL | Combined Reg Amount
+KAWAS_APM | UPPCL | Open Reg Amount
+KAWAS_APM | UPPCL | Off bar Reg Amount
+KAWAS_APM | UPPCL | Combined PSM Reg Amount
+KAWAS_APM | UPPCL | Open PSM Reg Amount
+KAWAS_APM | UPPCL | Off bar PSM Reg Amount
+KAWAS_APM | UPPCL | Combined LPSC Reg Amount
+KAWAS_APM | UPPCL | Open LPSC Reg Amount
+KAWAS_APM | UPPCL | Off bar LPSC Reg Amount
+KAWAS_APM | UPPCL | Combined Reg OASold Amount
+KAWAS_APM | UPPCL | Combined UnReg OASold Amount
+KAWAS_APM | UPPCL | Open Reg OASold Amount
+KAWAS_APM | UPPCL | Open UnReg OASold Amount
+KAWAS_APM | UPPCL | Combined Final Ent Amount
+KAWAS_APM | UPPCL | Open Final Ent Amount
+KAWAS_APM | UPPCL | Offbar Final Ent Amount
+KAWAS_APM | UPPCL | Schedule Amount
+KAWAS_CRF | UPPCL | Entire Shared Combined Ent Amount
+KAWAS_CRF | UPPCL | Entire Shared Open Ent Amount
+KAWAS_CRF | UPPCL | Entire Shared Offbar Ent Amount
+KAWAS_CRF | UPPCL | Combined Reg Amount
+KAWAS_CRF | UPPCL | Open Reg Amount
+KAWAS_CRF | UPPCL | Off bar Reg Amount
+KAWAS_CRF | UPPCL | Combined PSM Reg Amount
+KAWAS_CRF | UPPCL | Open PSM Reg Amount
+KAWAS_CRF | UPPCL | Off bar PSM Reg Amount
+KAWAS_CRF | UPPCL | Combined LPSC Reg Amount
+KAWAS_CRF | UPPCL | Open LPSC Reg Amount
+KAWAS_CRF | UPPCL | Off bar LPSC Reg Amount
+KAWAS_CRF | UPPCL | Combined Reg OASold Amount
+KAWAS_CRF | UPPCL | Combined UnReg OASold Amount
+KAWAS_CRF | UPPCL | Open Reg OASold Amount
+KAWAS_CRF | UPPCL | Open UnReg OASold Amount
+KAWAS_CRF | UPPCL | Combined Final Ent Amount
+KAWAS_CRF | UPPCL | Open Final Ent Amount
+KAWAS_CRF | UPPCL | Offbar Final Ent Amount
+KAWAS_CRF | UPPCL | Schedule Amount
+KAWAS_LF | UPPCL | Entire Shared Combined Ent Amount
+KAWAS_LF | UPPCL | Entire Shared Open Ent Amount
+KAWAS_LF | UPPCL | Entire Shared Offbar Ent Amount
+KAWAS_LF | UPPCL | Combined Reg Amount
+KAWAS_LF | UPPCL | Open Reg Amount
+KAWAS_LF | UPPCL | Off bar Reg Amount
+KAWAS_LF | UPPCL | Combined PSM Reg Amount
+KAWAS_LF | UPPCL | Open PSM Reg Amount
+KAWAS_LF | UPPCL | Off bar PSM Reg Amount
+KAWAS_LF | UPPCL | Combined LPSC Reg Amount
+KAWAS_LF | UPPCL | Open LPSC Reg Amount
+KAWAS_LF | UPPCL | Off bar LPSC Reg Amount
+KAWAS_LF | UPPCL | Combined Reg OASold Amount
+KAWAS_LF | UPPCL | Combined UnReg OASold Amount
+KAWAS_LF | UPPCL | Open Reg OASold Amount
+KAWAS_LF | UPPCL | Open UnReg OASold Amount
+KAWAS_LF | UPPCL | Combined Final Ent Amount
+KAWAS_LF | UPPCL | Open Final Ent Amount
+KAWAS_LF | UPPCL | Offbar Final Ent Amount
+KAWAS_LF | UPPCL | Schedule Amount
+KAWAS_NAPM | UPPCL | Entire Shared Combined Ent Amount
+KAWAS_NAPM | UPPCL | Entire Shared Open Ent Amount
+KAWAS_NAPM | UPPCL | Entire Shared Offbar Ent Amount
+KAWAS_NAPM | UPPCL | Combined Reg Amount
+KAWAS_NAPM | UPPCL | Open Reg Amount
+KAWAS_NAPM | UPPCL | Off bar Reg Amount
+KAWAS_NAPM | UPPCL | Combined PSM Reg Amount
+KAWAS_NAPM | UPPCL | Open PSM Reg Amount
+KAWAS_NAPM | UPPCL | Off bar PSM Reg Amount
+KAWAS_NAPM | UPPCL | Combined LPSC Reg Amount
+KAWAS_NAPM | UPPCL | Open LPSC Reg Amount
+KAWAS_NAPM | UPPCL | Off bar LPSC Reg Amount
+KAWAS_NAPM | UPPCL | Combined Reg OASold Amount
+KAWAS_NAPM | UPPCL | Combined UnReg OASold Amount
+KAWAS_NAPM | UPPCL | Open Reg OASold Amount
+KAWAS_NAPM | UPPCL | Open UnReg OASold Amount
+KAWAS_NAPM | UPPCL | Combined Final Ent Amount
+KAWAS_NAPM | UPPCL | Open Final Ent Amount
+KAWAS_NAPM | UPPCL | Offbar Final Ent Amount
+KAWAS_NAPM | UPPCL | Schedule Amount
+KAWAS_RLNG | UPPCL | Entire Shared Combined Ent Amount
+KAWAS_RLNG | UPPCL | Entire Shared Open Ent Amount
+KAWAS_RLNG | UPPCL | Entire Shared Offbar Ent Amount
+KAWAS_RLNG | UPPCL | Combined Reg Amount
+KAWAS_RLNG | UPPCL | Open Reg Amount
+KAWAS_RLNG | UPPCL | Off bar Reg Amount
+KAWAS_RLNG | UPPCL | Combined PSM Reg Amount
+KAWAS_RLNG | UPPCL | Open PSM Reg Amount
+KAWAS_RLNG | UPPCL | Off bar PSM Reg Amount
+KAWAS_RLNG | UPPCL | Combined LPSC Reg Amount
+KAWAS_RLNG | UPPCL | Open LPSC Reg Amount
+KAWAS_RLNG | UPPCL | Off bar LPSC Reg Amount
+KAWAS_RLNG | UPPCL | Combined Reg OASold Amount
+KAWAS_RLNG | UPPCL | Combined UnReg OASold Amount
+KAWAS_RLNG | UPPCL | Open Reg OASold Amount
+KAWAS_RLNG | UPPCL | Open UnReg OASold Amount
+KAWAS_RLNG | UPPCL | Combined Final Ent Amount
+KAWAS_RLNG | UPPCL | Open Final Ent Amount
+KAWAS_RLNG | UPPCL | Offbar Final Ent Amount
+KAWAS_RLNG | UPPCL | Schedule Amount
+KHARGONE | UPPCL | Entire Shared Onbar Ent Amount
+KHARGONE | UPPCL | Entire Shared Offbar Ent Amount
+KHARGONE | UPPCL | Onbar Reg Amount
+KHARGONE | UPPCL | Offbar Reg Amount
+KHARGONE | UPPCL | Onbar PSM Reg Amount
+KHARGONE | UPPCL | Offbar PSM Reg Amount
+KHARGONE | UPPCL | Onbar LPSC Reg Amount
+KHARGONE | UPPCL | Offbar LPSC Reg Amount
+KHARGONE | UPPCL | Onbar Reg OASold Amount
+KHARGONE | UPPCL | Onbar UnReg OASold Amount
+KHARGONE | UPPCL | Onbar Final Ent Amount
+KHARGONE | UPPCL | Offbar Final Ent Amount
+KHARGONE | UPPCL | Schedule Amount
+KHSTPP_I | UPPCL | Entire Shared Onbar Ent Amount
+KHSTPP_I | UPPCL | Entire Shared Offbar Ent Amount
+KHSTPP_I | UPPCL | Onbar Reg Amount
+KHSTPP_I | UPPCL | Offbar Reg Amount
+KHSTPP_I | UPPCL | Onbar PSM Reg Amount
+KHSTPP_I | UPPCL | Offbar PSM Reg Amount
+KHSTPP_I | UPPCL | Onbar LPSC Reg Amount
+KHSTPP_I | UPPCL | Offbar LPSC Reg Amount
+KHSTPP_I | UPPCL | Onbar Reg OASold Amount
+KHSTPP_I | UPPCL | Onbar UnReg OASold Amount
+KHSTPP_I | UPPCL | Onbar Final Ent Amount
+KHSTPP_I | UPPCL | Offbar Final Ent Amount
+KHSTPP_I | UPPCL | Schedule Amount
+KHSTPP_II | UPPCL | Entire Shared Onbar Ent Amount
+KHSTPP_II | UPPCL | Entire Shared Offbar Ent Amount
+KHSTPP_II | UPPCL | Onbar Reg Amount
+KHSTPP_II | UPPCL | Offbar Reg Amount
+KHSTPP_II | UPPCL | Onbar PSM Reg Amount
+KHSTPP_II | UPPCL | Offbar PSM Reg Amount
+KHSTPP_II | UPPCL | Onbar LPSC Reg Amount
+KHSTPP_II | UPPCL | Offbar LPSC Reg Amount
+KHSTPP_II | UPPCL | Onbar Reg OASold Amount
+KHSTPP_II | UPPCL | Onbar UnReg OASold Amount
+KHSTPP_II | UPPCL | Onbar Final Ent Amount
+KHSTPP_II | UPPCL | Offbar Final Ent Amount
+KHSTPP_II | UPPCL | Schedule Amount
+KISHANGANGA | UPPCL | Entire Shared Ent Amount
+KISHANGANGA | UPPCL | Reg Amount
+KISHANGANGA | UPPCL | PSM Reg Amount
+KISHANGANGA | UPPCL | LPSC Reg Amount
+KISHANGANGA | UPPCL | UnReg OASold Amount
+KISHANGANGA | UPPCL | Reg OA Sold Amount
+KISHANGANGA | UPPCL | Final Ent Amount
+KISHANGANGA | UPPCL | Schedule Amount
+KOLDAM | UPPCL | Entire Shared Ent Amount
+KOLDAM | UPPCL | Reg Amount
+KOLDAM | UPPCL | PSM Reg Amount
+KOLDAM | UPPCL | LPSC Reg Amount
+KOLDAM | UPPCL | UnReg OASold Amount
+KOLDAM | UPPCL | Reg OA Sold Amount
+KOLDAM | UPPCL | Final Ent Amount
+KOLDAM | UPPCL | Schedule Amount
+KOTESHWR | UPPCL | Entire Shared Ent Amount
+KOTESHWR | UPPCL | Reg Amount
+KOTESHWR | UPPCL | PSM Reg Amount
+KOTESHWR | UPPCL | LPSC Reg Amount
+KOTESHWR | UPPCL | UnReg OASold Amount
+KOTESHWR | UPPCL | Reg OA Sold Amount
+KOTESHWR | UPPCL | Final Ent Amount
+KOTESHWR | UPPCL | Schedule Amount
+KSTPS12 | UPPCL | Entire Shared Onbar Ent Amount
+KSTPS12 | UPPCL | Entire Shared Offbar Ent Amount
+KSTPS12 | UPPCL | Onbar Reg Amount
+KSTPS12 | UPPCL | Offbar Reg Amount
+KSTPS12 | UPPCL | Onbar PSM Reg Amount
+KSTPS12 | UPPCL | Offbar PSM Reg Amount
+KSTPS12 | UPPCL | Onbar LPSC Reg Amount
+KSTPS12 | UPPCL | Offbar LPSC Reg Amount
+KSTPS12 | UPPCL | Onbar Reg OASold Amount
+KSTPS12 | UPPCL | Onbar UnReg OASold Amount
+KSTPS12 | UPPCL | Onbar Final Ent Amount
+KSTPS12 | UPPCL | Offbar Final Ent Amount
+KSTPS12 | UPPCL | Schedule Amount
+KSTPS7 | UPPCL | Entire Shared Onbar Ent Amount
+KSTPS7 | UPPCL | Entire Shared Offbar Ent Amount
+KSTPS7 | UPPCL | Onbar Reg Amount
+KSTPS7 | UPPCL | Offbar Reg Amount
+KSTPS7 | UPPCL | Onbar PSM Reg Amount
+KSTPS7 | UPPCL | Offbar PSM Reg Amount
+KSTPS7 | UPPCL | Onbar LPSC Reg Amount
+KSTPS7 | UPPCL | Offbar LPSC Reg Amount
+KSTPS7 | UPPCL | Onbar Reg OASold Amount
+KSTPS7 | UPPCL | Onbar UnReg OASold Amount
+KSTPS7 | UPPCL | Onbar Final Ent Amount
+KSTPS7 | UPPCL | Offbar Final Ent Amount
+KSTPS7 | UPPCL | Schedule Amount
+LARA | UPPCL | Entire Shared Onbar Ent Amount
+LARA | UPPCL | Entire Shared Offbar Ent Amount
+LARA | UPPCL | Onbar Reg Amount
+LARA | UPPCL | Offbar Reg Amount
+LARA | UPPCL | Onbar PSM Reg Amount
+LARA | UPPCL | Offbar PSM Reg Amount
+LARA | UPPCL | Onbar LPSC Reg Amount
+LARA | UPPCL | Offbar LPSC Reg Amount
+LARA | UPPCL | Onbar Reg OASold Amount
+LARA | UPPCL | Onbar UnReg OASold Amount
+LARA | UPPCL | Onbar Final Ent Amount
+LARA | UPPCL | Offbar Final Ent Amount
+LARA | UPPCL | Schedule Amount
+MOUDA1 | UPPCL | Entire Shared Onbar Ent Amount
+MOUDA1 | UPPCL | Entire Shared Offbar Ent Amount
+MOUDA1 | UPPCL | Onbar Reg Amount
+MOUDA1 | UPPCL | Offbar Reg Amount
+MOUDA1 | UPPCL | Onbar PSM Reg Amount
+MOUDA1 | UPPCL | Offbar PSM Reg Amount
+MOUDA1 | UPPCL | Onbar LPSC Reg Amount
+MOUDA1 | UPPCL | Offbar LPSC Reg Amount
+MOUDA1 | UPPCL | Onbar Reg OASold Amount
+MOUDA1 | UPPCL | Onbar UnReg OASold Amount
+MOUDA1 | UPPCL | Onbar Final Ent Amount
+MOUDA1 | UPPCL | Offbar Final Ent Amount
+MOUDA1 | UPPCL | Schedule Amount
+MOUDA2 | UPPCL | Entire Shared Onbar Ent Amount
+MOUDA2 | UPPCL | Entire Shared Offbar Ent Amount
+MOUDA2 | UPPCL | Onbar Reg Amount
+MOUDA2 | UPPCL | Offbar Reg Amount
+MOUDA2 | UPPCL | Onbar PSM Reg Amount
+MOUDA2 | UPPCL | Offbar PSM Reg Amount
+MOUDA2 | UPPCL | Onbar LPSC Reg Amount
+MOUDA2 | UPPCL | Offbar LPSC Reg Amount
+MOUDA2 | UPPCL | Onbar Reg OASold Amount
+MOUDA2 | UPPCL | Onbar UnReg OASold Amount
+MOUDA2 | UPPCL | Onbar Final Ent Amount
+MOUDA2 | UPPCL | Offbar Final Ent Amount
+MOUDA2 | UPPCL | Schedule Amount
+NAPP | UPPCL | Entire Shared Ent Amount
+NAPP | UPPCL | Reg Amount
+NAPP | UPPCL | PSM Reg Amount
+NAPP | UPPCL | LPSC Reg Amount
+NAPP | UPPCL | UnReg OASold Amount
+NAPP | UPPCL | Reg OA Sold Amount
+NAPP | UPPCL | Final Ent Amount
+NAPP | UPPCL | Schedule Amount
+NJPC | UPPCL | Entire Shared Ent Amount
+NJPC | UPPCL | Reg Amount
+NJPC | UPPCL | PSM Reg Amount
+NJPC | UPPCL | LPSC Reg Amount
+NJPC | UPPCL | UnReg OASold Amount
+NJPC | UPPCL | Reg OA Sold Amount
+NJPC | UPPCL | Final Ent Amount
+NJPC | UPPCL | Schedule Amount
+NPGC | UPPCL | Entire Shared Onbar Ent Amount
+NPGC | UPPCL | Entire Shared Offbar Ent Amount
+NPGC | UPPCL | Onbar Reg Amount
+NPGC | UPPCL | Offbar Reg Amount
+NPGC | UPPCL | Onbar PSM Reg Amount
+NPGC | UPPCL | Offbar PSM Reg Amount
+NPGC | UPPCL | Onbar LPSC Reg Amount
+NPGC | UPPCL | Offbar LPSC Reg Amount
+NPGC | UPPCL | Onbar Reg OASold Amount
+NPGC | UPPCL | Onbar UnReg OASold Amount
+NPGC | UPPCL | Onbar Final Ent Amount
+NPGC | UPPCL | Offbar Final Ent Amount
+NPGC | UPPCL | Schedule Amount
+PARBATI2 | UPPCL | Entire Shared Ent Amount
+PARBATI2 | UPPCL | Reg Amount
+PARBATI2 | UPPCL | PSM Reg Amount
+PARBATI2 | UPPCL | LPSC Reg Amount
+PARBATI2 | UPPCL | UnReg OASold Amount
+PARBATI2 | UPPCL | Reg OA Sold Amount
+PARBATI2 | UPPCL | Final Ent Amount
+PARBATI2 | UPPCL | Schedule Amount
+PARBATI3 | UPPCL | Entire Shared Ent Amount
+PARBATI3 | UPPCL | Reg Amount
+PARBATI3 | UPPCL | PSM Reg Amount
+PARBATI3 | UPPCL | LPSC Reg Amount
+PARBATI3 | UPPCL | UnReg OASold Amount
+PARBATI3 | UPPCL | Reg OA Sold Amount
+PARBATI3 | UPPCL | Final Ent Amount
+PARBATI3 | UPPCL | Schedule Amount
+RAMPUR | UPPCL | Entire Shared Ent Amount
+RAMPUR | UPPCL | Reg Amount
+RAMPUR | UPPCL | PSM Reg Amount
+RAMPUR | UPPCL | LPSC Reg Amount
+RAMPUR | UPPCL | UnReg OASold Amount
+RAMPUR | UPPCL | Reg OA Sold Amount
+RAMPUR | UPPCL | Final Ent Amount
+RAMPUR | UPPCL | Schedule Amount
+RAPPB | UPPCL | Entire Shared Ent Amount
+RAPPB | UPPCL | Reg Amount
+RAPPB | UPPCL | PSM Reg Amount
+RAPPB | UPPCL | LPSC Reg Amount
+RAPPB | UPPCL | UnReg OASold Amount
+RAPPB | UPPCL | Reg OA Sold Amount
+RAPPB | UPPCL | Final Ent Amount
+RAPPB | UPPCL | Schedule Amount
+RAPPC | UPPCL | Entire Shared Ent Amount
+RAPPC | UPPCL | Reg Amount
+RAPPC | UPPCL | PSM Reg Amount
+RAPPC | UPPCL | LPSC Reg Amount
+RAPPC | UPPCL | UnReg OASold Amount
+RAPPC | UPPCL | Reg OA Sold Amount
+RAPPC | UPPCL | Final Ent Amount
+RAPPC | UPPCL | Schedule Amount
+RAPPD | UPPCL | Entire Shared Ent Amount
+RAPPD | UPPCL | Reg Amount
+RAPPD | UPPCL | PSM Reg Amount
+RAPPD | UPPCL | LPSC Reg Amount
+RAPPD | UPPCL | UnReg OASold Amount
+RAPPD | UPPCL | Reg OA Sold Amount
+RAPPD | UPPCL | Final Ent Amount
+RAPPD | UPPCL | Schedule Amount
+RIHAND1 | UPPCL | Entire Shared Onbar Ent Amount
+RIHAND1 | UPPCL | Entire Shared Offbar Ent Amount
+RIHAND1 | UPPCL | Onbar Reg Amount
+RIHAND1 | UPPCL | Offbar Reg Amount
+RIHAND1 | UPPCL | Onbar PSM Reg Amount
+RIHAND1 | UPPCL | Offbar PSM Reg Amount
+RIHAND1 | UPPCL | Onbar LPSC Reg Amount
+RIHAND1 | UPPCL | Offbar LPSC Reg Amount
+RIHAND1 | UPPCL | Onbar Reg OASold Amount
+RIHAND1 | UPPCL | Onbar UnReg OASold Amount
+RIHAND1 | UPPCL | Onbar Final Ent Amount
+RIHAND1 | UPPCL | Offbar Final Ent Amount
+RIHAND1 | UPPCL | Schedule Amount
+RIHAND2 | UPPCL | Entire Shared Onbar Ent Amount
+RIHAND2 | UPPCL | Entire Shared Offbar Ent Amount
+RIHAND2 | UPPCL | Onbar Reg Amount
+RIHAND2 | UPPCL | Offbar Reg Amount
+RIHAND2 | UPPCL | Onbar PSM Reg Amount
+RIHAND2 | UPPCL | Offbar PSM Reg Amount
+RIHAND2 | UPPCL | Onbar LPSC Reg Amount
+RIHAND2 | UPPCL | Offbar LPSC Reg Amount
+RIHAND2 | UPPCL | Onbar Reg OASold Amount
+RIHAND2 | UPPCL | Onbar UnReg OASold Amount
+RIHAND2 | UPPCL | Onbar Final Ent Amount
+RIHAND2 | UPPCL | Offbar Final Ent Amount
+RIHAND2 | UPPCL | Schedule Amount
+RIHAND3 | UPPCL | Entire Shared Onbar Ent Amount
+RIHAND3 | UPPCL | Entire Shared Offbar Ent Amount
+RIHAND3 | UPPCL | Onbar Reg Amount
+RIHAND3 | UPPCL | Offbar Reg Amount
+RIHAND3 | UPPCL | Onbar PSM Reg Amount
+RIHAND3 | UPPCL | Offbar PSM Reg Amount
+RIHAND3 | UPPCL | Onbar LPSC Reg Amount
+RIHAND3 | UPPCL | Offbar LPSC Reg Amount
+RIHAND3 | UPPCL | Onbar Reg OASold Amount
+RIHAND3 | UPPCL | Onbar UnReg OASold Amount
+RIHAND3 | UPPCL | Onbar Final Ent Amount
+RIHAND3 | UPPCL | Offbar Final Ent Amount
+RIHAND3 | UPPCL | Schedule Amount
+SALAL | UPPCL | Entire Shared Ent Amount
+SALAL | UPPCL | Reg Amount
+SALAL | UPPCL | PSM Reg Amount
+SALAL | UPPCL | LPSC Reg Amount
+SALAL | UPPCL | UnReg OASold Amount
+SALAL | UPPCL | Reg OA Sold Amount
+SALAL | UPPCL | Final Ent Amount
+SALAL | UPPCL | Schedule Amount
+SASAN | UPPCL | Entire Shared Onbar Ent Amount
+SASAN | UPPCL | Entire Shared Offbar Ent Amount
+SASAN | UPPCL | Onbar Reg Amount
+SASAN | UPPCL | Offbar Reg Amount
+SASAN | UPPCL | Onbar PSM Reg Amount
+SASAN | UPPCL | Offbar PSM Reg Amount
+SASAN | UPPCL | Onbar LPSC Reg Amount
+SASAN | UPPCL | Offbar LPSC Reg Amount
+SASAN | UPPCL | Onbar Reg OASold Amount
+SASAN | UPPCL | Onbar UnReg OASold Amount
+SASAN | UPPCL | Onbar Final Ent Amount
+SASAN | UPPCL | Offbar Final Ent Amount
+SASAN | UPPCL | Schedule Amount
+SEWA2 | UPPCL | Entire Shared Ent Amount
+SEWA2 | UPPCL | Reg Amount
+SEWA2 | UPPCL | PSM Reg Amount
+SEWA2 | UPPCL | LPSC Reg Amount
+SEWA2 | UPPCL | UnReg OASold Amount
+SEWA2 | UPPCL | Reg OA Sold Amount
+SEWA2 | UPPCL | Final Ent Amount
+SEWA2 | UPPCL | Schedule Amount
+SINGRAULI | UPPCL | Entire Shared Onbar Ent Amount
+SINGRAULI | UPPCL | Entire Shared Offbar Ent Amount
+SINGRAULI | UPPCL | Onbar Reg Amount
+SINGRAULI | UPPCL | Offbar Reg Amount
+SINGRAULI | UPPCL | Onbar PSM Reg Amount
+SINGRAULI | UPPCL | Offbar PSM Reg Amount
+SINGRAULI | UPPCL | Onbar LPSC Reg Amount
+SINGRAULI | UPPCL | Offbar LPSC Reg Amount
+SINGRAULI | UPPCL | Onbar Reg OASold Amount
+SINGRAULI | UPPCL | Onbar UnReg OASold Amount
+SINGRAULI | UPPCL | Onbar Final Ent Amount
+SINGRAULI | UPPCL | Offbar Final Ent Amount
+SINGRAULI | UPPCL | Schedule Amount
+SINGRAULI_HYDRO | UPPCL | Entire Shared Ent Amount
+SINGRAULI_HYDRO | UPPCL | Reg Amount
+SINGRAULI_HYDRO | UPPCL | PSM Reg Amount
+SINGRAULI_HYDRO | UPPCL | LPSC Reg Amount
+SINGRAULI_HYDRO | UPPCL | UnReg OASold Amount
+SINGRAULI_HYDRO | UPPCL | Reg OA Sold Amount
+SINGRAULI_HYDRO | UPPCL | Final Ent Amount
+SINGRAULI_HYDRO | UPPCL | Schedule Amount
+SIPAT1 | UPPCL | Entire Shared Onbar Ent Amount
+SIPAT1 | UPPCL | Entire Shared Offbar Ent Amount
+SIPAT1 | UPPCL | Onbar Reg Amount
+SIPAT1 | UPPCL | Offbar Reg Amount
+SIPAT1 | UPPCL | Onbar PSM Reg Amount
+SIPAT1 | UPPCL | Offbar PSM Reg Amount
+SIPAT1 | UPPCL | Onbar LPSC Reg Amount
+SIPAT1 | UPPCL | Offbar LPSC Reg Amount
+SIPAT1 | UPPCL | Onbar Reg OASold Amount
+SIPAT1 | UPPCL | Onbar UnReg OASold Amount
+SIPAT1 | UPPCL | Onbar Final Ent Amount
+SIPAT1 | UPPCL | Offbar Final Ent Amount
+SIPAT1 | UPPCL | Schedule Amount
+SIPAT2 | UPPCL | Entire Shared Onbar Ent Amount
+SIPAT2 | UPPCL | Entire Shared Offbar Ent Amount
+SIPAT2 | UPPCL | Onbar Reg Amount
+SIPAT2 | UPPCL | Offbar Reg Amount
+SIPAT2 | UPPCL | Onbar PSM Reg Amount
+SIPAT2 | UPPCL | Offbar PSM Reg Amount
+SIPAT2 | UPPCL | Onbar LPSC Reg Amount
+SIPAT2 | UPPCL | Offbar LPSC Reg Amount
+SIPAT2 | UPPCL | Onbar Reg OASold Amount
+SIPAT2 | UPPCL | Onbar UnReg OASold Amount
+SIPAT2 | UPPCL | Onbar Final Ent Amount
+SIPAT2 | UPPCL | Offbar Final Ent Amount
+SIPAT2 | UPPCL | Schedule Amount
+SOLAPUR | UPPCL | Entire Shared Onbar Ent Amount
+SOLAPUR | UPPCL | Entire Shared Offbar Ent Amount
+SOLAPUR | UPPCL | Onbar Reg Amount
+SOLAPUR | UPPCL | Offbar Reg Amount
+SOLAPUR | UPPCL | Onbar PSM Reg Amount
+SOLAPUR | UPPCL | Offbar PSM Reg Amount
+SOLAPUR | UPPCL | Onbar LPSC Reg Amount
+SOLAPUR | UPPCL | Offbar LPSC Reg Amount
+SOLAPUR | UPPCL | Onbar Reg OASold Amount
+SOLAPUR | UPPCL | Onbar UnReg OASold Amount
+SOLAPUR | UPPCL | Onbar Final Ent Amount
+SOLAPUR | UPPCL | Offbar Final Ent Amount
+SOLAPUR | UPPCL | Schedule Amount
+TALA | UPPCL | Entire Shared Ent Amount
+TALA | UPPCL | Reg Amount
+TALA | UPPCL | PSM Reg Amount
+TALA | UPPCL | LPSC Reg Amount
+TALA | UPPCL | UnReg OASold Amount
+TALA | UPPCL | Reg OA Sold Amount
+TALA | UPPCL | Final Ent Amount
+TALA | UPPCL | Schedule Amount
+TANAKPUR | UPPCL | Entire Shared Ent Amount
+TANAKPUR | UPPCL | Reg Amount
+TANAKPUR | UPPCL | PSM Reg Amount
+TANAKPUR | UPPCL | LPSC Reg Amount
+TANAKPUR | UPPCL | UnReg OASold Amount
+TANAKPUR | UPPCL | Reg OA Sold Amount
+TANAKPUR | UPPCL | Final Ent Amount
+TANAKPUR | UPPCL | Schedule Amount
+TANDA2 | UPPCL | Entire Shared Onbar Ent Amount
+TANDA2 | UPPCL | Entire Shared Offbar Ent Amount
+TANDA2 | UPPCL | Onbar Reg Amount
+TANDA2 | UPPCL | Offbar Reg Amount
+TANDA2 | UPPCL | Onbar PSM Reg Amount
+TANDA2 | UPPCL | Offbar PSM Reg Amount
+TANDA2 | UPPCL | Onbar LPSC Reg Amount
+TANDA2 | UPPCL | Offbar LPSC Reg Amount
+TANDA2 | UPPCL | Onbar Reg OASold Amount
+TANDA2 | UPPCL | Onbar UnReg OASold Amount
+TANDA2 | UPPCL | Onbar Final Ent Amount
+TANDA2 | UPPCL | Offbar Final Ent Amount
+TANDA2 | UPPCL | Schedule Amount
+TAPS_II | UPPCL | Entire Shared Ent Amount
+TAPS_II | UPPCL | Reg Amount
+TAPS_II | UPPCL | PSM Reg Amount
+TAPS_II | UPPCL | LPSC Reg Amount
+TAPS_II | UPPCL | UnReg OASold Amount
+TAPS_II | UPPCL | Reg OA Sold Amount
+TAPS_II | UPPCL | Final Ent Amount
+TAPS_II | UPPCL | Schedule Amount
+TEHRI | UPPCL | Entire Shared Ent Amount
+TEHRI | UPPCL | Reg Amount
+TEHRI | UPPCL | PSM Reg Amount
+TEHRI | UPPCL | LPSC Reg Amount
+TEHRI | UPPCL | UnReg OASold Amount
+TEHRI | UPPCL | Reg OA Sold Amount
+TEHRI | UPPCL | Final Ent Amount
+TEHRI | UPPCL | Schedule Amount
+UNCHAHAR1 | UPPCL | Entire Shared Onbar Ent Amount
+UNCHAHAR1 | UPPCL | Entire Shared Offbar Ent Amount
+UNCHAHAR1 | UPPCL | Onbar Reg Amount
+UNCHAHAR1 | UPPCL | Offbar Reg Amount
+UNCHAHAR1 | UPPCL | Onbar PSM Reg Amount
+UNCHAHAR1 | UPPCL | Offbar PSM Reg Amount
+UNCHAHAR1 | UPPCL | Onbar LPSC Reg Amount
+UNCHAHAR1 | UPPCL | Offbar LPSC Reg Amount
+UNCHAHAR1 | UPPCL | Onbar Reg OASold Amount
+UNCHAHAR1 | UPPCL | Onbar UnReg OASold Amount
+UNCHAHAR1 | UPPCL | Onbar Final Ent Amount
+UNCHAHAR1 | UPPCL | Offbar Final Ent Amount
+UNCHAHAR1 | UPPCL | Schedule Amount
+UNCHAHAR2 | UPPCL | Entire Shared Onbar Ent Amount
+UNCHAHAR2 | UPPCL | Entire Shared Offbar Ent Amount
+UNCHAHAR2 | UPPCL | Onbar Reg Amount
+UNCHAHAR2 | UPPCL | Offbar Reg Amount
+UNCHAHAR2 | UPPCL | Onbar PSM Reg Amount
+UNCHAHAR2 | UPPCL | Offbar PSM Reg Amount
+UNCHAHAR2 | UPPCL | Onbar LPSC Reg Amount
+UNCHAHAR2 | UPPCL | Offbar LPSC Reg Amount
+UNCHAHAR2 | UPPCL | Onbar Reg OASold Amount
+UNCHAHAR2 | UPPCL | Onbar UnReg OASold Amount
+UNCHAHAR2 | UPPCL | Onbar Final Ent Amount
+UNCHAHAR2 | UPPCL | Offbar Final Ent Amount
+UNCHAHAR2 | UPPCL | Schedule Amount
+UNCHAHAR3 | UPPCL | Entire Shared Onbar Ent Amount
+UNCHAHAR3 | UPPCL | Entire Shared Offbar Ent Amount
+UNCHAHAR3 | UPPCL | Onbar Reg Amount
+UNCHAHAR3 | UPPCL | Offbar Reg Amount
+UNCHAHAR3 | UPPCL | Onbar PSM Reg Amount
+UNCHAHAR3 | UPPCL | Offbar PSM Reg Amount
+UNCHAHAR3 | UPPCL | Onbar LPSC Reg Amount
+UNCHAHAR3 | UPPCL | Offbar LPSC Reg Amount
+UNCHAHAR3 | UPPCL | Onbar Reg OASold Amount
+UNCHAHAR3 | UPPCL | Onbar UnReg OASold Amount
+UNCHAHAR3 | UPPCL | Onbar Final Ent Amount
+UNCHAHAR3 | UPPCL | Offbar Final Ent Amount
+UNCHAHAR3 | UPPCL | Schedule Amount
+UNCHAHAR4 | UPPCL | Entire Shared Onbar Ent Amount
+UNCHAHAR4 | UPPCL | Entire Shared Offbar Ent Amount
+UNCHAHAR4 | UPPCL | Onbar Reg Amount
+UNCHAHAR4 | UPPCL | Offbar Reg Amount
+UNCHAHAR4 | UPPCL | Onbar PSM Reg Amount
+UNCHAHAR4 | UPPCL | Offbar PSM Reg Amount
+UNCHAHAR4 | UPPCL | Onbar LPSC Reg Amount
+UNCHAHAR4 | UPPCL | Offbar LPSC Reg Amount
+UNCHAHAR4 | UPPCL | Onbar Reg OASold Amount
+UNCHAHAR4 | UPPCL | Onbar UnReg OASold Amount
+UNCHAHAR4 | UPPCL | Onbar Final Ent Amount
+UNCHAHAR4 | UPPCL | Offbar Final Ent Amount
+UNCHAHAR4 | UPPCL | Schedule Amount
+URI | UPPCL | Entire Shared Ent Amount
+URI | UPPCL | Reg Amount
+URI | UPPCL | PSM Reg Amount
+URI | UPPCL | LPSC Reg Amount
+URI | UPPCL | UnReg OASold Amount
+URI | UPPCL | Reg OA Sold Amount
+URI | UPPCL | Final Ent Amount
+URI | UPPCL | Schedule Amount
+URI2 | UPPCL | Entire Shared Ent Amount
+URI2 | UPPCL | Reg Amount
+URI2 | UPPCL | PSM Reg Amount
+URI2 | UPPCL | LPSC Reg Amount
+URI2 | UPPCL | UnReg OASold Amount
+URI2 | UPPCL | Reg OA Sold Amount
+URI2 | UPPCL | Final Ent Amount
+URI2 | UPPCL | Schedule Amount
+VSTPS1 | UPPCL | Entire Shared Onbar Ent Amount
+VSTPS1 | UPPCL | Entire Shared Offbar Ent Amount
+VSTPS1 | UPPCL | Onbar Reg Amount
+VSTPS1 | UPPCL | Offbar Reg Amount
+VSTPS1 | UPPCL | Onbar PSM Reg Amount
+VSTPS1 | UPPCL | Offbar PSM Reg Amount
+VSTPS1 | UPPCL | Onbar LPSC Reg Amount
+VSTPS1 | UPPCL | Offbar LPSC Reg Amount
+VSTPS1 | UPPCL | Onbar Reg OASold Amount
+VSTPS1 | UPPCL | Onbar UnReg OASold Amount
+VSTPS1 | UPPCL | Onbar Final Ent Amount
+VSTPS1 | UPPCL | Offbar Final Ent Amount
+VSTPS1 | UPPCL | Schedule Amount
+VSTPS2 | UPPCL | Entire Shared Onbar Ent Amount
+VSTPS2 | UPPCL | Entire Shared Offbar Ent Amount
+VSTPS2 | UPPCL | Onbar Reg Amount
+VSTPS2 | UPPCL | Offbar Reg Amount
+VSTPS2 | UPPCL | Onbar PSM Reg Amount
+VSTPS2 | UPPCL | Offbar PSM Reg Amount
+VSTPS2 | UPPCL | Onbar LPSC Reg Amount
+VSTPS2 | UPPCL | Offbar LPSC Reg Amount
+VSTPS2 | UPPCL | Onbar Reg OASold Amount
+VSTPS2 | UPPCL | Onbar UnReg OASold Amount
+VSTPS2 | UPPCL | Onbar Final Ent Amount
+VSTPS2 | UPPCL | Offbar Final Ent Amount
+VSTPS2 | UPPCL | Schedule Amount
+VSTPS3 | UPPCL | Entire Shared Onbar Ent Amount
+VSTPS3 | UPPCL | Entire Shared Offbar Ent Amount
+VSTPS3 | UPPCL | Onbar Reg Amount
+VSTPS3 | UPPCL | Offbar Reg Amount
+VSTPS3 | UPPCL | Onbar PSM Reg Amount
+VSTPS3 | UPPCL | Offbar PSM Reg Amount
+VSTPS3 | UPPCL | Onbar LPSC Reg Amount
+VSTPS3 | UPPCL | Offbar LPSC Reg Amount
+VSTPS3 | UPPCL | Onbar Reg OASold Amount
+VSTPS3 | UPPCL | Onbar UnReg OASold Amount
+VSTPS3 | UPPCL | Onbar Final Ent Amount
+VSTPS3 | UPPCL | Offbar Final Ent Amount
+VSTPS3 | UPPCL | Schedule Amount
+VSTPS4 | UPPCL | Entire Shared Onbar Ent Amount
+VSTPS4 | UPPCL | Entire Shared Offbar Ent Amount
+VSTPS4 | UPPCL | Onbar Reg Amount
+VSTPS4 | UPPCL | Offbar Reg Amount
+VSTPS4 | UPPCL | Onbar PSM Reg Amount
+VSTPS4 | UPPCL | Offbar PSM Reg Amount
+VSTPS4 | UPPCL | Onbar LPSC Reg Amount
+VSTPS4 | UPPCL | Offbar LPSC Reg Amount
+VSTPS4 | UPPCL | Onbar Reg OASold Amount
+VSTPS4 | UPPCL | Onbar UnReg OASold Amount
+VSTPS4 | UPPCL | Onbar Final Ent Amount
+VSTPS4 | UPPCL | Offbar Final Ent Amount
+VSTPS4 | UPPCL | Schedule Amount
+VSTPS5 | UPPCL | Entire Shared Onbar Ent Amount
+VSTPS5 | UPPCL | Entire Shared Offbar Ent Amount
+VSTPS5 | UPPCL | Onbar Reg Amount
+VSTPS5 | UPPCL | Offbar Reg Amount
+VSTPS5 | UPPCL | Onbar PSM Reg Amount
+VSTPS5 | UPPCL | Offbar PSM Reg Amount
+VSTPS5 | UPPCL | Onbar LPSC Reg Amount
+VSTPS5 | UPPCL | Offbar LPSC Reg Amount
+VSTPS5 | UPPCL | Onbar Reg OASold Amount
+VSTPS5 | UPPCL | Onbar UnReg OASold Amount
+VSTPS5 | UPPCL | Onbar Final Ent Amount
+VSTPS5 | UPPCL | Offbar Final Ent Amount
+VSTPS5 | UPPCL | Schedule Amount
+Unnamed: 1083_level_0 | Unnamed: 1083_level_1 | Total Final Ent Amount
+Unnamed: 1084_level_0 | Unnamed: 1084_level_1 | Total Schd Amount
+
+--- ipp.csv ---
+Time Block
+Time
+ALAKNANDA HYDRO POWER COMPANY Ltd. UPPCL DC/ Entitlement (MW)
+ALAKNANDA HYDRO POWER COMPANY Ltd. UPPCL SG (MW)
+Bajaj Energy Private Ltd Unit Berkhera UPPCL DC/ Entitlement (MW)
+Bajaj Energy Private Ltd Unit Berkhera UPPCL SG (MW)
+Bajaj Energy Private Ltd Unit Khambarkhera UPPCL DC/ Entitlement (MW)
+Bajaj Energy Private Ltd Unit Khambarkhera UPPCL SG (MW)
+Bajaj Energy Private Ltd Unit Kundarkhi UPPCL DC/ Entitlement (MW)
+Bajaj Energy Private Ltd Unit Kundarkhi UPPCL SG (MW)
+Bajaj Energy Private Ltd Unit Maqsoodapur UPPCL DC/ Entitlement (MW)
+Bajaj Energy Private Ltd Unit Maqsoodapur UPPCL SG (MW)
+Bajaj Energy Private Ltd Unit Utraula UPPCL DC/ Entitlement (MW)
+Bajaj Energy Private Ltd Unit Utraula UPPCL SG (MW)
+LALITPUR POWER GENERATION COMPANY LIMITED UPPCL DC/ Entitlement (MW)
+LALITPUR POWER GENERATION COMPANY LIMITED UPPCL SG (MW)
+MEIL ANPARA ENERGY LIMITED UPPCL DC/ Entitlement (MW)
+MEIL ANPARA ENERGY LIMITED UPPCL SG (MW)
+NUPPL firm power  UPPCL DC/ Entitlement (MW)
+NUPPL firm power  UPPCL SG (MW)
+Neyveli Uttar Pradesh Power Ltd GTPS UPPCL DC/ Entitlement (MW)
+Neyveli Uttar Pradesh Power Ltd GTPS UPPCL SG (MW)
+PRAYAGRAJ SUPERCRITICAL TPP BARA UPPCL DC/ Entitlement (MW)
+PRAYAGRAJ SUPERCRITICAL TPP BARA UPPCL SG (MW)
+ROSA-I UPPCL DC/ Entitlement (MW)
+ROSA-I UPPCL SG (MW)
+ROSA-II UPPCL DC/ Entitlement (MW)
+ROSA-II UPPCL SG (MW)
+TANDA UPPCL DC/ Entitlement (MW)
+TANDA UPPCL SG (MW)
+VISHNU-PRAYAG UPPCL DC/ Entitlement (MW)
+VISHNU-PRAYAG UPPCL SG (MW)
+Total Total UPPCL DC/ Entitlement(MW)
+Total Total UPPCL SG(MW)
+
+--- trader.csv ---
+Time Block
+Time
+DHARI-LT46-NPCL(34MW) UPPCL DC/ Entitlement (MW)
+DHARI-LT46-NPCL(34MW) UPPCL SG (MW)
+GBHHPL UPPCL DC/ Entitlement (MW)
+GBHHPL UPPCL SG (MW)
+KARCHAM HEP-LT26-UPPCL UPPCL DC/ Entitlement (MW)
+KARCHAM HEP-LT26-UPPCL UPPCL SG (MW)
+KSK LT-53 (770) UPPCL DC/ Entitlement (MW)
+KSK LT-53 (770) UPPCL SG (MW)
+MBP-LT39-UPPCL UPPCL DC/ Entitlement (MW)
+MBP-LT39-UPPCL UPPCL SG (MW)
+MBP-LT51 (169) UPPCL DC/ Entitlement (MW)
+MBP-LT51 (169) UPPCL SG (MW)
+RKM-LT49-UPPCL(200MW) UPPCL DC/ Entitlement (MW)
+RKM-LT49-UPPCL(200MW) UPPCL SG (MW)
+TEESTA-III UPPCL DC/ Entitlement (MW)
+TEESTA-III UPPCL SG (MW)
+TRN LT-52 (390) UPPCL DC/ Entitlement (MW)
+TRN LT-52 (390) UPPCL SG (MW)
+Total Total UPPCL DC/ Entitlement(MW)
+Total Total UPPCL SG(MW)
+
+--- uprvunl.csv ---
+Time Block
+Time
+ANPARA-A UPPCL DC/ Entitlement (MW)
+ANPARA-A UPPCL SG (MW)
+ANPARA-B UPPCL DC/ Entitlement (MW)
+ANPARA-B UPPCL SG (MW)
+ANPARA-D UPPCL DC/ Entitlement (MW)
+ANPARA-D UPPCL SG (MW)
+HARDUAGANJ UPPCL DC/ Entitlement (MW)
+HARDUAGANJ UPPCL SG (MW)
+HARDUAGANJ D UPPCL DC/ Entitlement (MW)
+HARDUAGANJ D UPPCL SG (MW)
+Harduaganj 1X660 MW UPRVUNL UPPCL DC/ Entitlement (MW)
+Harduaganj 1X660 MW UPRVUNL UPPCL SG (MW)
+Jawaharpur Vidyut Utapadan Nigam Ltd Distt Etah UPPCL DC/ Entitlement (MW)
+Jawaharpur Vidyut Utapadan Nigam Ltd Distt Etah UPPCL SG (MW)
+OBRA C UPPCL DC/ Entitlement (MW)
+OBRA C UPPCL SG (MW)
+OBRA-B UPPCL DC/ Entitlement (MW)
+OBRA-B UPPCL SG (MW)
+PARICHHA-B UPPCL DC/ Entitlement (MW)
+PARICHHA-B UPPCL SG (MW)
+PARICHHA-C UPPCL DC/ Entitlement (MW)
+PARICHHA-C UPPCL SG (MW)
+Panki Thermal Extension Project 1X660 UPPCL DC/ Entitlement (MW)
+Panki Thermal Extension Project 1X660 UPPCL SG (MW)
+Total Total UPPCL DC/ Entitlement(MW)
+Total Total UPPCL SG(MW)
+

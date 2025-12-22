@@ -1,0 +1,222 @@
+{
+    "Anta (GPS)": [
+        "ANTA_CRF",
+        "ANTA_GF",
+        "ANTA_LF",
+        "ANTA_RF"
+    ],
+    "Auraiya (GPS)": [
+        "AURY_CRF",
+        "AURY_GF",
+        "AURY_LF",
+        "AURY_RF"
+    ],
+    "Dadri (GPS)": [
+        "DADRI_CRF",
+        "DADRI_GF",
+        "DADRI_LF",
+        "DADRI_RF"
+    ],
+    "Unchahar-I": [
+        "UNCHAHAR1"
+    ],
+    "Unchahar-II": [
+        "UNCHAHAR2"
+    ],
+    "Unchahar-III": [
+        "UNCHAHAR3"
+    ],
+    "Unchahar-IV": [
+        "UNCHAHAR4"
+    ],
+    "Farakka": [
+        "FSTPP_I_II"
+    ],
+    "Kahalgaon-I": [
+        "KHSTPP_I"
+    ],
+    "Kahalgaon-II": [
+        "KHSTPP_II"
+    ],
+    "Dadri (T) I": [
+        "DADRIT"
+    ],
+    "Dadri (T) II": [
+        "DADRT2"
+    ],
+    "Rihand-I": [
+        "RIHAND1"
+    ],
+    "Rihand-II": [
+        "RIHAND2"
+    ],
+    "Rihand-III": [
+        "RIHAND3"
+    ],
+    "Singrauli": [
+        "SINGRAULI"
+    ],
+    "Jhanor GPS": [
+        "GANDHAR_APM",
+        "GANDHAR_CRF",
+        "GANDHAR_NAPM",
+        "GANDHAR_RLNG"
+    ],
+    "Korba-I STPS": [
+        "KSTPS12"
+    ],
+    "Korba-III STPS": [
+        "KSTPS7"
+    ],
+    "Kawas GPS": [
+        "KAWAS_APM",
+        "KAWAS_CRF",
+        "KAWAS_LF",
+        "KAWAS_NAPM",
+        "KAWAS_RLNG"
+    ],
+    "Mauda-I GPS": [
+        "MOUDA1"
+    ],
+    "Mauda-II GPS": [
+        "MOUDA2"
+    ],
+    "Solapur TPS": [
+        "SOLAPUR"
+    ],
+    "Sipat-I": [
+        "SIPAT1"
+    ],
+    "Sipat-II STPS": [
+        "SIPAT2"
+    ],
+    "Vindyachal-I STPS": [
+        "VSTPS1"
+    ],
+    "Vindyachal-II STPS": [
+        "VSTPS2"
+    ],
+    "Vindyachal-III STPS": [
+        "VSTPS3"
+    ],
+    "Vindyachal-IV STPS": [
+        "VSTPS4"
+    ],
+    "Vindyachal-V STPS": [
+        "VSTPS5"
+    ],
+    "Rosa -I": [
+        "ROSA-I"
+    ],
+    "Anpara - A": [
+        "ANPARA-A"
+    ],
+    "Anpara - B": [
+        "ANPARA-B"
+    ],
+    "Anpara-D": [
+        "ANPARA-D"
+    ],
+    "Harduaganj": [
+        "HARDUAGANJ"
+    ],
+    "Harduaganj Ext.": [
+        "HARDUAGANJ D"
+    ],
+    "Obra-B": [
+        "OBRA-B"
+    ],
+    "Parichha - Ext.": [
+        "PARICHHA-B"
+    ],
+    "Parichha - Ext. Stage - II": [
+        "PARICHHA-C"
+    ],
+    "Lanco (Anpara-C)": [
+        "MEIL ANPARA"
+    ],
+    "BEPL, Barkhera": [
+        "Bajaj Energy Private Ltd Unit Berkhera"
+    ],
+    "BEPL, Khambharkhera": [
+        "Bajaj Energy Private Ltd Unit Khambarkhera"
+    ],
+    "BEPL, Kundarkhi": [
+        "Bajaj Energy Private Ltd Unit Kundarkhi"
+    ],
+    "BEPL, Maqsoodpur": [
+        "Bajaj Energy Private Ltd Unit Maqsoodapur"
+    ],
+    "BEPL, Utraula": [
+        "Bajaj Energy Private Ltd Unit Utraula"
+    ],
+    "Lalitpur Power": [
+        "LALITPUR POWER GENERATION COMPANY LIMITED"
+    ],
+    "Sasan": [
+        "SASAN"
+    ],
+    "MB Power": [
+        "MBP-LT39",
+        "MBP-LT51"
+    ],
+    "TRN Energy": [
+        "TRN LT-52"
+    ],
+    "RKM": [
+        "RKM-LT49-UPPCL(200MW)"
+    ],
+    "KSK Mahanadi": [
+        "KSK LT-53"
+    ],
+    "BARA (Prayagraj Power)": [
+        "PRAYAGRAJ SUPERCRITICAL TPP BARA"
+    ],
+    "Jhajjar": [
+        "JHAJJAR"
+    ],
+    "Meja Power": [
+        "Meja",
+        "MEJA"
+    ],
+    "Gadarwara STPS": [
+        "GADARWARA"
+    ],
+    "Nabinagar (NPGCL)": [
+        "NPGC"
+    ],
+    "LARA STPS": [
+        "LARA"
+    ],
+    "TANDA STAGE-II": [
+        "TANDA2",
+        "TANDA "
+    ],
+    "KHARGONE STPS": [
+        "KHARGONE"
+    ],
+    "ROSA-II": [
+        "ROSA-II"
+    ],
+    "Harduaganj Ext. II TPS": [
+        "Harduaganj 1X660 MW"
+    ],
+    "Obra-C": [
+        "OBRA C"
+    ],
+    "JAWAHARPUR": [
+        "Jawaharpur Vidyut Utapadan Nigam Ltd Distt Etah"
+    ],
+    "GHATAMPUR": [
+        "Neyveli Uttar Pradesh Power Ltd",
+        "GHATAMPUR",
+        "NUPPL"
+    ],
+    "KHURJA_STPP": [
+        "KHURJA",
+        "Khurja"
+    ],
+    "PANKI": [
+        "Panki Thermal Extension Project 1X660"
+    ]
+}
